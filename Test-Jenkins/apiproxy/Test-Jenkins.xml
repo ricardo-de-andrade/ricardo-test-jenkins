@@ -8,6 +8,7 @@
     <LastModifiedAt>1418312714437</LastModifiedAt>
     <LastModifiedBy>ricardo.de.andrade@gmail.com</LastModifiedBy>
     <Policies/>
+    <!--comment-->
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
