@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Test-Jenkins">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1418312714437</CreatedAt>
+    <CreatedBy>ricardo.de.andrade@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Test-Jenkins</DisplayName>
+    <LastModifiedAt>1418312714437</LastModifiedAt>
+    <LastModifiedBy>ricardo.de.andrade@gmail.com</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
